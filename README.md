@@ -10,7 +10,7 @@ This project is designed to check all shots which was taken in Euros 2024 . The 
 
 ### 1. Creating a Virtual Environment
 
-To ensure that the project dependencies are isolated, it's recommended to create a virtual environment. You can create a virtual environment by following these steps:
+You can create a virtual environment by following these steps:
 
 1. **Navigate to your project directory**:
 
