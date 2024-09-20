@@ -64,8 +64,3 @@ After installing the dependencies, you can run the application using Streamlit:
 
     This command will start the Streamlit server and open the application in your default web browser.
 
-## Additional Information
-
-- **Deactivating the virtual environment**: When you're done working in your virtual environment, you can deactivate it by simply typing `deactivate` in your terminal.
-  
-- **Modifying dependencies**: If you need to add more packages, install them with `pip install <package-name>`, and don't forget to update `requirements.txt` with `pip freeze > requirements.txt`.
